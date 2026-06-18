@@ -2,9 +2,16 @@
 
 > A Claude / AI coding-agent skill that teaches the agent to use **VS Code's built-in browser tools** for in-editor web verification — **without installing Playwright, Puppeteer, or headless Chrome**.
 
+<!-- Tech -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![VS Code](https://img.shields.io/badge/VS%20Code-1.95%2B-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757?logo=anthropic)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)
+[![VS Code](https://img.shields.io/badge/VS%20Code-1.95%2B-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-D97757?logo=anthropic&logoColor=white)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview)
+[![Markdown](https://img.shields.io/badge/Markdown-Skill-000000?logo=markdown&logoColor=white)](https://commonmark.org/)
+
+<!-- Community -->
+[![GitHub stars](https://img.shields.io/github/stars/Piyabordee/vscode-browser-test?style=social)](https://github.com/Piyabordee/vscode-browser-test/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Piyabordee/vscode-browser-test?style=social)](https://github.com/Piyabordee/vscode-browser-test/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Piyabordee/vscode-browser-test)](https://github.com/Piyabordee/vscode-browser-test/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
