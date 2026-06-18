@@ -1,0 +1,28 @@
+# EditorConfig is awesome: https://EditorConfig.org
+# Top-most EditorConfig file — applies to the whole repository.
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+# Markdown often uses trailing spaces for hard line breaks — preserve them.
+trim_trailing_whitespace = false
+
+# Markdown lists and tables are usually indented 2 spaces; allow up to 4.
+indent_size = 2
+
+[*.{yml,yaml}]
+indent_size = 2
+
+[*.{json,jsonc}]
+indent_size = 2
+
+[Makefile]
+indent_style = tab
